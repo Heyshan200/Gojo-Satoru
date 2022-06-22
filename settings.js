@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94783961232']
-global.premium = ['94783961232']
-global.ownernomer = '94783961232'
-global.ownername = '🐦Heshan-The King Is Back'
-global.botname = 'Sl Bad Heshan'
+global.owner = ['94769623263']
+global.premium = ['94769623263']
+global.ownernomer = '94769623263'
+global.ownername = 'SL king Pathum'
+global.botname = 'pvm farst bot'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
